@@ -1,2 +1,3 @@
-# reducaodimensionalidade
-Projeto de redução de dimensionalidade para a DIO
+# Redução de Dimensionalidade para Redes Neurais 
+
+Este projeto é parte de um BootCamp realizado pela DIO com foco em Machine Learning
